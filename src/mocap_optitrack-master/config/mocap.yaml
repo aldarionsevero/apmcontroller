@@ -1,0 +1,5 @@
+rigid_bodies:
+    '1':
+        pose: /Apm/unfiltered_pose
+    '2':
+        pose: /Pelican/unfiltered_pose
